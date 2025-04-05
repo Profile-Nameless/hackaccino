@@ -72,3 +72,12 @@ Thumbs.db
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Large model files
+*.keras
+vectorizer.pkl
+
+# Only keep the files needed for the model to work
+!rf_classifier.pkl
+!tfidf_vectorizer.pkl
+!label_encoder.pkl

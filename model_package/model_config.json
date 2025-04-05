@@ -1,0 +1,1 @@
+{"model_type": "RandomForest", "num_classes": 9, "classes": ["302", "304A", "306", "307", "325", "376", "379", "420", "498A"], "accuracy": 1.0}
